@@ -1,0 +1,10 @@
+.body-container{
+    display: flex;
+    flex-direction: column;
+    min-height: 60vh;
+}
+.main-container{
+    flex-shrink:1;
+    margin: 0 auto;
+    min-height: 60vh;
+}

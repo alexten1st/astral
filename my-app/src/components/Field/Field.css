@@ -1,0 +1,8 @@
+.form-group{
+    margin-bottom: 12px;
+}
+.hide{
+    display: none;
+}
+.variant-container{display: flex;
+    flex-direction: column;}
